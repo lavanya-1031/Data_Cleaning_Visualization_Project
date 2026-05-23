@@ -1,2 +1,24 @@
-# Data_Cleaning_Visualization_Project
-Python project for data cleaning and visualization
+# Data Cleaning & Visualization Project
+
+## Objective
+Clean and visualize a raw dataset using Python.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Tasks Performed
+- Handled missing values
+- Removed duplicates
+- Visualized data using charts
+
+## Visualizations
+- Histogram
+- Heatmap
+- Boxplot
+- Scatterplot
+
+## Dataset
+Titanic Dataset
